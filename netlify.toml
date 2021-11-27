@@ -10,4 +10,4 @@
   command = "yarn build:preview"
 
 [context.branch-deploy]
-command = “hugo --gc --minify -b https://herhimalaya.com/”
+command = "hugo --gc --minify -b https://herhimalaya.com/"
